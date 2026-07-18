@@ -5,9 +5,8 @@ Titanic dataset, for the BCS 404 project at Accra Technical University.
 
 **Name:** Dogbe Daniel Senyo
 **ID:** 01252524B
-**Course:** BCS 404 - Introduction to Data Science with Python
+**Course:** BCS 428 - Introduction to Data Science with Python
 **Lecturer:** Dr. Joseph Dadzie
-**Academic Year:** 2025/2026, Second Semester
 
 ## Overview
 
